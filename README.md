@@ -22,3 +22,11 @@ and suggests a daily workout duration and basic diet plan.
 ## Unit Testing
 Unit tests are written using PyTest to verify BMI calculation and workout recommendations.
 
+## Version 2.0 Update
+The application now also recommends where the user should work out based on BMI:
+- Underweight: Home workouts
+- Normal weight: Home or Gym
+- Overweight: Gym workouts
+
+
+
